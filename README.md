@@ -1,5 +1,3 @@
-# Data-Preprocessing-and-Visualization-Orange-Tool
-Hands-on project using Orange Data Mining Tool to perform data preprocessing, categorical encoding, and visualization on the Titanic dataset. Includes histograms, scatter plots, and EDA steps for better insights.
 # Data Preprocessing & Visualization in Orange Tool
 
 ## 📌 Project Overview
@@ -61,7 +59,7 @@ The dataset used for this demonstration is the **Titanic Dataset**, a classic da
 
 ## 📌 Author
 ** Buddareddy Gari Bhavana**  
-📧[bhavanabuddareddygari07@gmail.com  
+📧 bhavanabuddareddygari07@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/buddareddy-gari-bhavana-76737b352
 
 ---
